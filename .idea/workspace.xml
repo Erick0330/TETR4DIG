@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TETR4DIG:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c51127f-4dde-4999-8521-4c484000c7bb" name="Changes" comment="Corregidos errores generales. Se completó la venta de información y la acción para guardar todos los valores de las preguntas." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <branch-grouping />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leyderhr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leyderhr/T3TRADIG.git&quot;,
+    &quot;accountId&quot;: &quot;b4124c1e-5c99-4f61-b58a-87772f713d1e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gQuJNGhQFhwEJjqCbS1QRh5Ilw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BugTestApp.executor": "Run",
+    "Application.Example01.executor": "Run",
+    "Application.ExampleGood.executor": "Run",
+    "Application.Interface.Export.main.Main.executor": "Run",
+    "Application.Launcher.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SwingDemo.executor": "Run",
+    "Application.SwtDemo.executor": "Run",
+    "Application.SwtTest.executor": "Run",
+    "Python.PythonCharts.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/Documents/Abdiel/TETR4DIG",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.23794213",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src\util" />
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src\logic\useful" />
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src" />
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src\Interface\newInterface" />
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src\logic\Entitys" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\lib" />
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src\util\chartsPython" />
+      <recent name="E:\Escuela de Leyder\Trabajo Leyder\T4TRADIG\T4TRADIG\src\Util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Interface.newInterface.Chart" />
+      <recent name="Interface.newInterface.python" />
+      <recent name="Interface" />
+      <recent name="Interface.Event" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle Tasks" flag="true" />
+      <visibility group="Maven Goals" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.export.main.Launcher" />
+      <module name="T4TRADIG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interface.export.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="T4TRADIG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PythonCharts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="T4TRADIG" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Interface/newInterface/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Interface/newInterface/python/PythonCharts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c51127f-4dde-4999-8521-4c484000c7bb" name="Changes" comment="" />
+      <created>1715642055320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715642055320</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit de la Interfaz">
+      <option name="closed" value="true" />
+      <created>1728595624792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728595624792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primer commit de la Interfaz">
+      <option name="closed" value="true" />
+      <created>1728596988571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728596988571</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primer commit de la Interfaz">
+      <option name="closed" value="true" />
+      <created>1728597178894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728597178894</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Agregada funcionalidad de crear gráficas con Python">
+      <option name="closed" value="true" />
+      <created>1728765023501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728765023502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Corregidos errores generales.">
+      <option name="closed" value="true" />
+      <created>1728963507233</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728963507233</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Corregidos errores generales. Agregados resultados para los ámbitos y las perspectivas">
+      <option name="closed" value="true" />
+      <created>1729112414781</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729112414781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Corregidos errores generales.">
+      <option name="closed" value="true" />
+      <created>1729115565294</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729115565294</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Corregidos errores generales. Agregada la funcionalidad de cargar preguntas desde la base de datos">
+      <option name="closed" value="true" />
+      <created>1729738587371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729738587371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Corregidos errores generales. Agregada la funcionalidad de cargar preguntas desde la base de datos">
+      <option name="closed" value="true" />
+      <created>1729744524644</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729744524644</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Corregidos errores generales. Agregada la funcionalidad de cargar preguntas desde la base de datos">
+      <option name="closed" value="true" />
+      <created>1729812784238</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729812784238</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Corregidos errores generales. Fueron creadas la mayoría de las gráficas. Se implementó el método para exportar todo en un archivo .pfg">
+      <option name="closed" value="true" />
+      <created>1730011949172</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730011949172</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Corregidos errores generales. Fueron creadas la mayoría de las gráficas. Se implementó el método para exportar todo en un archivo .pdf">
+      <option name="closed" value="true" />
+      <created>1730143752727</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730143752727</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Corregidos errores generales. Fueron creadas todas las gráficas. Se implementó el método para exportar todo en un archivo .pdf y .word">
+      <option name="closed" value="true" />
+      <created>1730157645031</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730157645031</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Exportar a Word implementado">
+      <option name="closed" value="true" />
+      <created>1730176015118</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730176015119</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Exportar a Word implementado">
+      <option name="closed" value="true" />
+      <created>1730176239096</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730176239096</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Exportar a Word implementado">
+      <option name="closed" value="true" />
+      <created>1730176351361</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730176351361</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Exportar a Word implementado">
+      <option name="closed" value="true" />
+      <created>1730176461777</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730176461777</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Corregidos errores generales. Se completó la venta de información y la acción para guardar todos los valores de las preguntas.">
+      <option name="closed" value="true" />
+      <created>1730267704927</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730267704927</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Primer commit de la Interfaz" />
+    <MESSAGE value="Agregada funcionalidad de crear gráficas con Python" />
+    <MESSAGE value="Corregidos errores generales. Agregados resultados para los ámbitos y las perspectivas" />
+    <MESSAGE value="Corregidos errores generales." />
+    <MESSAGE value="Corregidos errores generales. Agregada la funcionalidad de cargar preguntas desde la base de datos" />
+    <MESSAGE value="Corregidos errores generales. Fueron creadas la mayoría de las gráficas. Se implementó el método para exportar todo en un archivo .pfg" />
+    <MESSAGE value="Corregidos errores generales. Fueron creadas la mayoría de las gráficas. Se implementó el método para exportar todo en un archivo .pdf" />
+    <MESSAGE value="Corregidos errores generales. Fueron creadas todas las gráficas. Se implementó el método para exportar todo en un archivo .pdf y .word" />
+    <MESSAGE value="Exportar a Word implementado" />
+    <MESSAGE value="Corregidos errores generales. Se completó la venta de información y la acción para guardar todos los valores de las preguntas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Corregidos errores generales. Se completó la venta de información y la acción para guardar todos los valores de las preguntas." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interface/export/main/Launcher.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interface/newInterface/Chart/MdgMdaMdpTable.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
